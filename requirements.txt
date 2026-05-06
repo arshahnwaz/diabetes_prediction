@@ -1,8 +1,9 @@
 streamlit
-pandas
 numpy
+pandas
 scikit-learn
 matplotlib
 seaborn
 plotly
 reportlab
+google-genai
