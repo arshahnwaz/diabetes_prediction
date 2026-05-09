@@ -116,7 +116,7 @@ input, .stTextInput, .stNumberInput {
 """, unsafe_allow_html=True)
 
 # ---------------- GEMINI ----------------
-client = genai.Client(api_key="AIzaSyAs9sdSCCiYikiTtmFQ91uhIeEbNzqA9I0")
+client = genai.Client(api_key="AIzaSyBfr8mKSr_aoeQ_cXuSjIjGBBc8Yy8d7Hk")
 
 # ---------------- SESSION ----------------
 if "page" not in st.session_state:
